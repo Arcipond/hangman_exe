@@ -1,2 +1,2 @@
 # hangman_exe
-exe용 입니다.
+exe용 행맨게임
